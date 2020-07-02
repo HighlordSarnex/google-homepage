@@ -1,0 +1,22 @@
+.nav-links{
+    list-style: none;
+}
+
+main{
+    width: 100%;
+}
+
+#search-area {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+#google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
